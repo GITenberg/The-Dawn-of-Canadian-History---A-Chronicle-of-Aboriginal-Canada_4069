@@ -1,0 +1,51 @@
+_repo: The-Dawn-of-Canadian-History---A-Chronicle-of-Aboriginal-Canada_4069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+  editors:
+  - agent_name: Wrong, George McKinnon
+    alias: Wrong, George M. (George McKinnon)
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '1002'
+    url: http://www.gutenberg.org/2009/agents/1002
+    wikipedia: http://en.wikipedia.org/wiki/George_MacKinnon_Wrong
+  - agent_name: Langton, H. H. (Hugh Hornby)
+    alias: Langton, Hugh Hornby
+    birthdate: 1862
+    deathdate: 1953
+    gutenberg_agent_id: '4517'
+    url: http://www.gutenberg.org/2009/agents/4517
+description: Stephen Leacock shot to popular acclaim as a humor writer prone to penning
+  absurdist vignettes and other mirthful morsels. However, he was trained as a political
+  economist and spent much of his life working in this and several other academic
+  disciplines. The collaborative volume The Dawn of Canadian History showcases Leacock's
+  strengths as a scholar and thinker.
+gutenberg_bookshelf:
+- Canada
+- Native America
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4069'
+language: en
+publication_note: 'Toronto :  [s.n.],  1915'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Chronicles of Canada series: Volume 01'
+subjects:
+- !lcsh 'America -- Discovery and exploration'
+- !lcc 'F1001'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Canada'
+- GITenberg
+title: 'The Dawn of Canadian History : A Chronicle of Aboriginal Canada'
+url: http://www.gutenberg.org/ebooks/4069

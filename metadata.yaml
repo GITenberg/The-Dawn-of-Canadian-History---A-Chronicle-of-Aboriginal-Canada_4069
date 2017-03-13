@@ -1,5 +1,8 @@
 _repo: The-Dawn-of-Canadian-History---A-Chronicle-of-Aboriginal-Canada_4069
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leacock, Stephen
@@ -28,6 +31,8 @@ description: Stephen Leacock shot to popular acclaim as a humor writer prone to 
   economist and spent much of his life working in this and several other academic
   disciplines. The collaborative volume The Dawn of Canadian History showcases Leacock's
   strengths as a scholar and thinker.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4069#The-Dawn-of-Canadian-History---A-Chronicle-of-Aboriginal-Canada
 gutenberg_bookshelf:
 - Canada
 - Native America
